@@ -1,0 +1,7 @@
+openai
+numpy
+pandas
+streamlit
+python-dotenv
+google.generativeai
+
